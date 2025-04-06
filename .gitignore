@@ -1,3 +1,6 @@
 .*.*
 incremancer/*.piskel
 incremancer/dist/bundle.js.map
+incremancer/sprites/*
+incremancer/images/*
+incremancer/js/*
